@@ -1,0 +1,4 @@
+CREATE TABLE ciudades (
+	idCiudad TINYINT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(30) NOT NULL
+);
